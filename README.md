@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Full-time Software Engineer who loves to help others.
+
 <!--
 **noobling/noobling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![noobling profile](https://github-readme-stats.vercel.app/api?username=noobling&show_icons=true&theme=radical)
