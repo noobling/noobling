@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Full-time Software Engineer who loves to help others.
+Currently atlassian.com - ex telstra.com, ex gridcog.com, ex spacetoco.com, ex genvis.co, ex codersforcauses.org, ex worley.com
+
+10 years in the game
 
 <!--
 **noobling/noobling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
