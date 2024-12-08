@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently atlassian.com building [app migrations](https://developer.atlassian.com/platform/app-migration/) and lets.lol (still love building applications in JavaScript)
+Currently Atlassian building [app migrations](https://developer.atlassian.com/platform/app-migration/) and lets.lol (still love building applications in JavaScript)
 
 Also been part of takemybed.com, telstra.com, gridcog.com, spacetoco.com, genvis.co, codersforcauses.org, worley.com
 
